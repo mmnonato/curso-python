@@ -1,3 +1,5 @@
+# Este programa pede ao usuário que forneça a idade e, em seguida, informa o valor da entrada.
+
 age = int(input('Qual sua idade? '))
 
 if age < 4:
